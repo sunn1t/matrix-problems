@@ -12,7 +12,7 @@ double Gauss_det(double **A, int N);
 int find_not_zero(double **A, int N, int column);
 void swap_lines(double **A, int p, int r);
 
-int main()ы
+int main()
 {
     int N, i, j;
     double **A = NULL;
